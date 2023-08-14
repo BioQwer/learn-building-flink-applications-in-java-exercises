@@ -33,4 +33,5 @@ exercises/*
 !exercises/exercise.bat
 
 /flink*
+/kafka*
 
